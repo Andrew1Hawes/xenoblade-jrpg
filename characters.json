@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Elma",
+        "gender": "Female",
+        "age": 29,
+        "signatureArts": [
+            "Shadowstrike",
+            "Ghost Factory"
+        ],
+        "meleeWeaponCategory": "Dual Swords",
+        "rangedWeaponCategory": "Dual Guns",
+        "level": 5,
+        "arts": [
+            "Shadowstrike",
+            "Sliding Slinger"
+        ],
+        "hp": 5000,
+        "melee": 50,
+        "ranged": 50,
+        "potential": 50,
+        "evasion": 5,
+        "meleeWeapon": "Iron Blades",
+        "rangedWeapon": "Storm Dual Guns"
+    }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Adamant Suid",
+    "subcategory": "Suid",
+    "type": "Normal",
+    "location": "Primordia",
+    "time": "Daytime",
+    "facing": 3,
+    "levelMin": 31,
+    "levelMax": 40,
+    "hpMin": 37885,
+    "hpMax": 53034,
+    "meleeMin": 385,
+    "meleeMax": 525,
+    "rangedMin": 346,
+    "rangedMax": 473,
+    "potentialMin": 385,
+    "potentialMax": 525,
+    "evasionMin": 85,
+    "evasionMax": 112,
+    "attacks": [
+      {
+        "direction": 3,
+        "type": "melee",
+        "multiMin": 1.0,
+        "multiMax": 1.1
+      },
+      {
+        "direction": 1,
+        "type": "melee",
+        "multiMin": 1.0,
+        "multiMax": 1.0
+      }
+    ]
+  },
+  {
+    "name": "Ataraxia Oc-serv",
+    "subcategory": "Oc-serv",
+    "type": "Normal",
+    "location": "Primordia",
+    "time": "Anytime",
+    "facing": 3,
+    "levelMin": 41,
+    "levelMax": 50,
+    "hpMin": 64621,
+    "hpMax": 78192,
+    "meleeMin": 570,
+    "meleeMax": 739,
+    "rangedMin": 570,
+    "rangedMax": 739,
+    "potentialMin": 543,
+    "potentialMax": 704,
+    "evasionMin": 129,
+    "evasionMax": 165,
+    "attacks": [
+      {
+        "direction": 3,
+        "type": "melee",
+        "multiMin": 1.0,
+        "multiMax": 1.0
+      },
+      {
+        "direction": 1,
+        "type": "melee",
+        "multiMin": 1.0,
+        "multiMax": 1.0
+      }
+    ]
+  }
+]

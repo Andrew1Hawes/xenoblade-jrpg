@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Shadowstrike",
+        "type": "Melee",
+        "range": "Single",
+        "numOfHits": 1,
+        "tensionCost": 0,
+        "bonuses": [
+            "Back Attack: Damage Up"
+        ],
+        "secondaryCooldown": "Damage Up",
+        "secondaryCooldownValue": 2.5,
+        "multiplier": 1.5,
+        "damageBoost": 2.0,
+        "cooldownTime": 30.0,
+        "effect": "Stagger",
+        "effectDuration": 5.0
+    },
+    {
+        "name": "Ghost Factory",
+        "type": "Support",
+        "range": "Allies",
+        "tensionCost": 1000,
+        "bonuses": [],
+        "secondaryCooldown": "Effect time",
+        "secondaryCooldownValue": 20.0,
+        "cooldownTime": 45.0,
+        "effect": "Decoy",
+        "effectDuration": 30.0
+    },
+    {
+        "name": "Sliding Slinger",
+        "type": "Ranged",
+        "range": "Single",
+        "numOfHits": 6,
+        "tensionCost": 0,
+        "bonuses": [
+            "Side Attack: Tension Up"
+        ],
+        "secondaryCooldown": "Tension",
+        "secondaryCooldownValue": 25,
+        "multiplier": 0.5,
+        "tpGain": 10,
+        "cooldownTime": 20.0
+    }
+]

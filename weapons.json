@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Iron Blades",
+        "type": "melee",
+        "category": "Dual Swords",
+        "attack": 16,
+        "minLevel": 1,
+        "cooldown": 1.5,
+        "tpGain": 72,
+        "stability": 5,
+        "upgrades": 3
+    },
+    {
+        "name": "Storm Dual Guns",
+        "type": "ranged",
+        "category": "Dual Guns",
+        "attack": 6,
+        "minLevel": 1,
+        "cooldown": 2.0,
+        "ammo": 8,
+        "tpGain": 2,
+        "stability": 8,
+        "upgrades": 5
+    }
+]
